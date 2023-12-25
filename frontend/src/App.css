@@ -1,0 +1,47 @@
+
+.error-label{
+  color: #ff1e00;
+  font: 0.9em;
+  margin-left: 30px;
+}
+
+.whole{
+  height: 100vh;
+  background-image: url(https://images5.alphacoders.com/105/1050909.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 5%;
+  /* padding-left: 35%; */
+  /* padding-right: 35%;  */
+ 
+}
+
+.my-card{
+  backdrop-filter: blur(5px);
+  background-color: rgba(255, 255, 255, 0.436);
+}
+
+.log-in{
+  height: 100vh;
+  background-image: url(https://images8.alphacoders.com/132/1329967.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.my-cardl{
+  backdrop-filter: blur(5px);
+  background-color: rgba(255, 255, 255, 0.231);
+}
+
+.sign-in{
+  height: 100vh;
+  background-image: url(https://images4.alphacoders.com/132/1329968.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+/* .my-img{
+  height: 300px;
+  object-fit: contain;
+} */
